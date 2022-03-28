@@ -9,3 +9,4 @@ SECOND CASE: **** show() ****(In show function you will see students data as you
 THIRD CASE: **** search() ****(In search function enter roll no of student which you want to search)
 FOURTH CASE: **** update() ****(In update function you can update the student detail which you want)
 FIFTH CASE: **** deletedata() ****(In delete function you can delete specfic data as well as full data)
+SIXTH CASE: **** exit ****(with the help of exit you can exit the program)
