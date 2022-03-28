@@ -1,10 +1,11 @@
 # Student-Management-System
 The language of this programe is C++.This project is based on basic student mangement system.
-In this project firstly, I was created a welcome screen then i was created  a login form.
-If you entered a correct password and username then you see  some cases like.
+<br>
+In this project firstly, I was created a welcome screen .
+welcome screen provide you six cases......
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-FIRST CASE: ****account open****(In account open function you enter some personal detail like name, phone number,dob etc .)
-SECOND CASE: ****deposit****(In deposit function you enter how many amount you want to deposit?)
-THIRD CASE: ****withdraw****(In withdraw function you enter the amount you want to withdraw)
-FOURTH CASE: ****transfer****(In transfer function you enter the amount you want to transfer)
-FIFTH CASE: ****detail of account****(In detail function you get your all bank detail)
+FIRST CASE: **** enter() ****(In enter function you enter how many students data do you want to entered and give some personal detail like name, roll no ,class ,section ,phone number .)
+SECOND CASE: **** show() ****(In show function you will see students data as you stored)
+THIRD CASE: **** search() ****(In search function enter roll no of student which you want to search)
+FOURTH CASE: **** update() ****(In update function you can update the student detail which you want)
+FIFTH CASE: **** deletedata() ****(In delete function you can delete specfic data as well as full data)
