@@ -11,3 +11,6 @@ FOURTH CASE: **** update() ****(In update function you can update the student de
 FIFTH CASE: **** deletedata() ****(In delete function you can delete specfic data as well as full data)
 SIXTH CASE: **** exit ****(with the help of exit you can exit the program)
 </pre>
+<hr>
+<outputs>
+  
