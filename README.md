@@ -14,4 +14,6 @@ SIXTH CASE: **** exit ****(with the help of exit you can exit the program)
 <hr>
 OUTPUTS:
 
-  
+  ![Screenshot (248)](https://user-images.githubusercontent.com/92047366/172892972-2942b833-848d-4a51-8cec-2dfff5f70b89.png)
+
+![Screenshot (249)](https://user-images.githubusercontent.com/92047366/172892997-f482e6c3-0f69-43a2-8e0b-df30b3efb67b.png)
