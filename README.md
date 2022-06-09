@@ -12,5 +12,6 @@ FIFTH CASE: **** deletedata() ****(In delete function you can delete specfic dat
 SIXTH CASE: **** exit ****(with the help of exit you can exit the program)
 </pre>
 <hr>
-<outputs>
+OUTPUTS:
+
   
